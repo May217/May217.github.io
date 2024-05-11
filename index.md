@@ -1,7 +1,7 @@
  
  # May Elizalde's Portfolio
 
- I am a computer science major at CSUF and I plan opn graduating in 2027
+ I am a computer science major at CSUF and I plan on graduating in 2027
 
  ## Favorite CPSC 120L Labs
 
